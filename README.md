@@ -1,6 +1,6 @@
 # DataWarehouse-ETL
 ## Built PostgreSQL-powered data warehouse, executed ETL processes via PGAdmin, implemented star schema transformation for advanced analytics, and conducted thorough data analysis.
-![Postgresql_elephant svg](https://github.com/mAnethiA/DataWarehouse-ETL/assets/42315297/5d8d671a-942f-4385-ab08-3e83b28a3953)
+![Postgresql_elephant svg](https://github.com/mAnethiA/DataWarehouse-ETL/assets/42315297/5d8d671a-942f-4385-ab08-3e83b28a3953=250x250)
 
 
 
